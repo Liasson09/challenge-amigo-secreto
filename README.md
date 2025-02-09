@@ -28,7 +28,7 @@ Esta aplicación permite que los usuarios pueda ingresar nombres de los amigos, 
 
 ## 📁 Acceso al proyecto
 
-Puedes acceder al [código fuente del proyecto](https://github.com/Liasson09/challenge-amigo-secreto) o [descargarlo](https://github.com/Liasson097challenge-amigo-secreto/archive/refs/heads/main.zip).
+Puedes acceder al [código fuente del proyecto](https://github.com/Liasson09/challenge-amigo-secreto), [descargarlo](https://github.com/Liasson097challenge-amigo-secreto/archive/refs/heads/main.zip) o [interactuar](https://liasson09.github.io/challenge-amigo-secreto/)).
 
 
 ## 🛠️ Herramientas utilizadas
