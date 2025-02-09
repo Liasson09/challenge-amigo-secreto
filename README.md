@@ -1,6 +1,6 @@
 <h1 align="center">Challenge Amigo Secreto</h1>
 <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-TERMINADO-GREEN">
 </p>
 
 ## 🔎 Índice
@@ -19,10 +19,10 @@
 
 Esta aplicación permite que los usuarios pueda ingresar nombres de los amigos, se realizará un sorteo de manea aleatoria y mostrará quién es el amigo secreto. 🔐
 
-## :hammer:Características de la aplicación
+## :hammer: Características de la aplicación
 
-- `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
-- `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+- `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en el campo de texto y le darán clic al botón "Añadir".
+- `Validar entrada`: Si el campo de texto está vacío, el programa mostrará un mensaje indicando que ingrese un nombre válido.
 - `Visualizar la lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
